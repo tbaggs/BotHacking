@@ -1,0 +1,12 @@
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\qnamaker.bot
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\QnABot.deps.json
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\QnABot.runtimeconfig.json
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\QnABot.runtimeconfig.dev.json
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\QnABot.dll
+D:\Source\BoseHack\BoseQnAmaker\bin\Debug\netcoreapp2.0\QnABot.pdb
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.csprojAssemblyReference.cache
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.csproj.CoreCompileInputs.cache
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.AssemblyInfoInputs.cache
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.AssemblyInfo.cs
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.dll
+D:\Source\BoseHack\BoseQnAmaker\obj\Debug\netcoreapp2.0\QnABot.pdb
