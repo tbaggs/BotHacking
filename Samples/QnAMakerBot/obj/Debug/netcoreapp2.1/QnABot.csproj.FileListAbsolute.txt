@@ -1,0 +1,12 @@
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\qnamaker.bot
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\QnABot.deps.json
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\QnABot.runtimeconfig.json
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\QnABot.runtimeconfig.dev.json
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\QnABot.dll
+D:\Source\BotHacking\Samples\QnAMakerBot\bin\Debug\netcoreapp2.1\QnABot.pdb
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.csprojAssemblyReference.cache
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.csproj.CoreCompileInputs.cache
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.AssemblyInfoInputs.cache
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.AssemblyInfo.cs
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.dll
+D:\Source\BotHacking\Samples\QnAMakerBot\obj\Debug\netcoreapp2.1\QnABot.pdb
